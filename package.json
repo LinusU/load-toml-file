@@ -1,6 +1,6 @@
 {
   "name": "load-toml-file",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": "LinusU/load-toml-file",
   "license": "MIT",
   "scripts": {
